@@ -7,7 +7,9 @@ from states import Profile, Food
 from aiogram import F
 import aiohttp
 from database import save_profile
-from openfood_api import get_food_info
+from log_food_database import log_food
+from get_food_info import get_food_info
+from openwheather_api import get_temperature
 
 router = Router()
 
@@ -76,7 +78,7 @@ async def process_city(message: Message, state: FSMContext):
 # Обработчик команды /log_food
 @router.message(Command("log_food"))
 async def start_log_food(message: Message, state: FSMContext):
-    await state.update_data(name=message.text)
+    await state.update_data(food=message.text)
     kall_per_100 = get_food_info(message.text)
     await state.update_data(kall_per_100=kall_per_100)
     await message.reply(f"{message.text} — {kall_per_100} ккал на 100 г. Сколько грамм вы съели?")
@@ -85,11 +87,12 @@ async def start_log_food(message: Message, state: FSMContext):
 @router.message(Food.amount)
 async def process_amount(message: Message, state: FSMContext):
     data = await state.get_data()
-    name = data.get('name')
+    food = data.get('food').replace('/log_food ', '')
     kall_per_100 = data.get('kall_per_100')
     amount = message.text
-    #update_profile(f"'{message.from_user.id}'")
-    await message.reply(f'Записано: {(float(kall_per_100) if kall_per_100 != None else 0) * float(amount)} ккал.')
+    calories = round((int(kall_per_100) if kall_per_100 != None else 0) * float(float(amount) / 100), 1)
+    log_food(message.from_user.id, food, amount, calories)
+    await message.reply(f'Записано: {calories} ккал.')
     await state.clear()
 
 # Хендлер на команду /weight_input
