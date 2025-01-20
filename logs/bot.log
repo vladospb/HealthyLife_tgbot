@@ -1,0 +1,9 @@
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @healthy_tg_bot id=7566872559 - 'HealthyLife'
+INFO:aiogram.event:Update id=662485427 is handled. Duration 171 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485426 is handled. Duration 202 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485428 is handled. Duration 140 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485429 is handled. Duration 125 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485430 is handled. Duration 125 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485431 is handled. Duration 1202 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485432 is handled. Duration 61 ms by bot id=7566872559

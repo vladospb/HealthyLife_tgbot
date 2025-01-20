@@ -6,7 +6,7 @@ from handlers import router
 
 
 # Включаем логирование, чтобы не пропустить важные сообщения
-logging.basicConfig(filename='bot.log', level=logging.INFO)
+logging.basicConfig(filename='logs\\bot.log', level=logging.INFO)
 # Объект бота
 bot = Bot(BOT_API_TOKEN)
 # Диспетчер
