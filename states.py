@@ -6,7 +6,18 @@ class Profile(StatesGroup):
     age = State()
     workout_time = State()
     city = State()
+    date = State()
 
 class Food(StatesGroup):
-    name = State()
+    food = State()
     amount = State()
+    date = State()
+
+class Water(StatesGroup):
+    water_amount = State()
+    date = State()
+
+class Workout(StatesGroup):
+    workout = State()
+    amount = State()
+    date = State()

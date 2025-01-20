@@ -16,10 +16,8 @@ def get_temperature(city):
             res = requests.get("http://api.openweathermap.org/data/2.5/weather",
                          params={'id': city_id, 'units': 'metric', 'lang': 'ru', 'APPID': TOKEN})
             data = res.json()
-            return data['main']['temp']
-        except Exception as e:
-            print("Exception (weather):", e)
-            pass
-    except Exception as e:
-        print("Exception (find):", e)
-    pass
+            return float(data['main']['temp'])
+        except:
+            return 0
+    except:
+        return 0

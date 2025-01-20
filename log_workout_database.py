@@ -1,6 +1,6 @@
 import sqlite3
 
-class Database_food:
+class Database_workout:
     _instance = None
 
     def __new__(cls, db_name):
@@ -19,27 +19,24 @@ class Database_food:
         self.connection.commit()
         return cursor.fetchall()
 
-
-
-def log_food(id, date, food, amount, calories):
-    db = Database_food('foods.db')
-    db.execute_query("""CREATE TABLE IF NOT EXISTS foods (
+def log_workout(id, date, workout, amount, calories):
+    print(id, date, workout, amount, calories)
+    db = Database_workout('workout.db')
+    db.execute_query("""CREATE TABLE IF NOT EXISTS workout (
     tg_id TEXT NOT NULL,
     date DATE,
-    food TEXT,
+    workout TEXT,
     amount REAL,
     calories REAL
     )""")
-    db.execute_query(f'INSERT INTO foods (tg_id, date, food, amount, calories) VALUES ({f"'{id}'"}, {f"'{date}'"}, {f"'{food}'"}, {f"'{amount}'"}, {f"'{calories}'"})')
-    print(db.execute_query('SELECT * FROM foods'))
+    db.execute_query(f'INSERT INTO workout (tg_id, date, workout, amount, calories) VALUES ({f"'{id}'"}, {f"'{date}'"}, {f"'{workout}'"}, {f"'{amount}'"}, {f"'{calories}'"})')
+    print(db.execute_query('SELECT * FROM workout'))
 
-
-
-def get_food_calories(id, date):
-    db = Database_food('foods.db')
+def get_workout_calories(id, date):
+    db = Database_workout('workout.db')
     result = db.execute_query('''
         SELECT SUM(calories)
-        FROM foods
+        FROM workout
         WHERE tg_id = ? AND date = ?
     ''', (id, date))
     
