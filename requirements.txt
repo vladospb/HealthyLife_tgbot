@@ -1,0 +1,8 @@
+aiogram==3.*
+python-dotenv==0.21.0
+pandas==2.2.2
+numpy==1.26.4
+joblib==1.4.2
+scikit-learn==1.4.2
+requests==2.32.2
+pysqlite3==0.5.4
