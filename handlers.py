@@ -14,7 +14,7 @@ from api.openwheather_api import get_temperature
 
 router = Router()
 BASE_PROFILE = [80, 170, 40, 'Saint-Petersurg']
-calories_calc_model = joblib.load('LinearRegr\\calories_calc.pkl')
+calories_calc_model = joblib.load('LinearRegr/calories_calc.pkl')
 
 # Обработчик нажатий на кнопки
 @router.message(Command("keyboard"))
