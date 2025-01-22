@@ -2,9 +2,9 @@ FROM python:3.12.4
 
 WORKDIR /app
 
-COPY .venv/requirements.txt .venv/requirements.txt
+COPY requirements.txt requirements.txt
 COPY bot.py bot.py
-RUN pip install -r .venv/requirements.txt
+RUN pip install -r requirements.txt
 
 COPY . .
 
