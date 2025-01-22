@@ -1,10 +1,11 @@
-FROM python:3.10
+FROM python:3.12.4
 
 WORKDIR /app
 
-COPY requirements.txt requirements.txt
-RUN pip install -r requirements.txt
+COPY .venv/requirements.txt .venv/requirements.txt
+COPY bot.py bot.py
+RUN pip install -r .venv/requirements.txt
 
 COPY . .
 
-CMD ['python', 'bot.py']
+CMD ["python", "bot.py"]

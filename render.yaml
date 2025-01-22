@@ -1,0 +1,17 @@
+version: 1
+services:
+  - type: web
+    name: HealthyBot
+    env: python
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "python bot.py"
+    autoDeploy: true
+    envVars:
+      - key: BOT_API_TOKEN
+        value: 7566872559:AAGbleat40PEfMKP8j6UmS8bdPKNTV0S_R8
+      - key: OPENWHEATHER_TOKEN
+        value: 9349351831d429c34f80a22bacdd1614
+      - key: CHAD_API_KEY
+        value: chad-88ed9c1b6dbd4dd4bb19c123e27c0175p0d8wa58
+    regions:
+      - region: russia

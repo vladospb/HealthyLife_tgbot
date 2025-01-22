@@ -1,0 +1,1797 @@
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @healthy_tg_bot id=7566872559 - 'HealthyLife'
+INFO:aiogram.event:Update id=662485427 is handled. Duration 171 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485426 is handled. Duration 202 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485428 is handled. Duration 140 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485429 is handled. Duration 125 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485430 is handled. Duration 125 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485431 is handled. Duration 1202 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485432 is handled. Duration 61 ms by bot id=7566872559
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @healthy_tg_bot id=7566872559 - 'HealthyLife'
+INFO:aiogram.event:Update id=662485433 is handled. Duration 233 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485434 is handled. Duration 141 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485435 is handled. Duration 92 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485436 is handled. Duration 608 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485437 is handled. Duration 93 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485438 is handled. Duration 93 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485439 is handled. Duration 93 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485440 is handled. Duration 125 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485441 is handled. Duration 94 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485442 is handled. Duration 171 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485443 is handled. Duration 141 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485444 is handled. Duration 1047 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485445 is handled. Duration 108 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485446 is handled. Duration 171 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485447 is handled. Duration 156 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485448 is handled. Duration 297 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485449 is handled. Duration 702 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485450 is handled. Duration 108 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485451 is handled. Duration 265 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485452 is handled. Duration 343 ms by bot id=7566872559
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @healthy_tg_bot id=7566872559 - 'HealthyLife'
+INFO:aiogram.event:Update id=662485453 is handled. Duration 313 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485454 is handled. Duration 78 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485455 is handled. Duration 78 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485456 is handled. Duration 157 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485457 is handled. Duration 250 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485458 is handled. Duration 77 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485459 is handled. Duration 203 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485460 is handled. Duration 93 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485461 is handled. Duration 343 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485462 is handled. Duration 155 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485463 is handled. Duration 141 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485464 is handled. Duration 827 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485465 is handled. Duration 217 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485466 is handled. Duration 156 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485467 is handled. Duration 344 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485468 is handled. Duration 172 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485469 is handled. Duration 1000 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485470 is handled. Duration 109 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485471 is handled. Duration 311 ms by bot id=7566872559
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @healthy_tg_bot id=7566872559 - 'HealthyLife'
+INFO:aiogram.event:Update id=662485472 is handled. Duration 250 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485473 is handled. Duration 125 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485474 is handled. Duration 171 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485475 is handled. Duration 375 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485476 is handled. Duration 93 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485477 is handled. Duration 93 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485478 is handled. Duration 92 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485479 is handled. Duration 77 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485480 is handled. Duration 109 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485481 is handled. Duration 218 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485482 is handled. Duration 907 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485483 is handled. Duration 188 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485484 is handled. Duration 233 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485485 is handled. Duration 108 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485486 is handled. Duration 171 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485487 is handled. Duration 1016 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485488 is handled. Duration 172 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485489 is handled. Duration 405 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485490 is handled. Duration 375 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485491 is handled. Duration 592 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485492 is handled. Duration 125 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485493 is handled. Duration 531 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485494 is handled. Duration 93 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485495 is handled. Duration 468 ms by bot id=7566872559
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @healthy_tg_bot id=7566872559 - 'HealthyLife'
+INFO:aiogram.event:Update id=662485496 is handled. Duration 671 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485497 is handled. Duration 468 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485498 is handled. Duration 484 ms by bot id=7566872559
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @healthy_tg_bot id=7566872559 - 'HealthyLife'
+INFO:aiogram.event:Update id=662485521 is not handled. Duration 483 ms by bot id=7566872559
+ERROR:aiogram.event:Cause exception while process update id=662485521 by bot id=7566872559
+UnboundLocalError: cannot access local variable 'water_norm' where it is not associated with a value
+Traceback (most recent call last):
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\vdl\HealthyLife_tgbot\handlers.py", line 206, in handle_check_progress_button
+    await cmd_check_progress(call.message, id)
+  File "C:\Users\vdl\HealthyLife_tgbot\handlers.py", line 223, in cmd_check_progress
+    water_left = round(water_norm - water_amount / 1000, 1)
+                       ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'water_norm' where it is not associated with a value
+INFO:aiogram.event:Update id=662485522 is handled. Duration 155 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485523 is not handled. Duration 219 ms by bot id=7566872559
+ERROR:aiogram.event:Cause exception while process update id=662485523 by bot id=7566872559
+UnboundLocalError: cannot access local variable 'water_norm' where it is not associated with a value
+Traceback (most recent call last):
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\vdl\HealthyLife_tgbot\handlers.py", line 223, in cmd_check_progress
+    water_left = round(water_norm - water_amount / 1000, 1)
+                       ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'water_norm' where it is not associated with a value
+INFO:aiogram.event:Update id=662485524 is not handled. Duration 530 ms by bot id=7566872559
+ERROR:aiogram.event:Cause exception while process update id=662485524 by bot id=7566872559
+UnboundLocalError: cannot access local variable 'water_norm' where it is not associated with a value
+Traceback (most recent call last):
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\vdl\HealthyLife_tgbot\handlers.py", line 206, in handle_check_progress_button
+    await cmd_check_progress(call.message, id)
+  File "C:\Users\vdl\HealthyLife_tgbot\handlers.py", line 223, in cmd_check_progress
+    water_left = round(water_norm - water_amount / 1000, 1)
+                       ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'water_norm' where it is not associated with a value
+INFO:aiogram.event:Update id=662485525 is handled. Duration 952 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485526 is handled. Duration 1516 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485527 is handled. Duration 108 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485528 is not handled. Duration 282 ms by bot id=7566872559
+ERROR:aiogram.event:Cause exception while process update id=662485528 by bot id=7566872559
+UnboundLocalError: cannot access local variable 'water_norm' where it is not associated with a value
+Traceback (most recent call last):
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\vdl\HealthyLife_tgbot\handlers.py", line 206, in handle_check_progress_button
+    await cmd_check_progress(call.message, id)
+  File "C:\Users\vdl\HealthyLife_tgbot\handlers.py", line 223, in cmd_check_progress
+    water_left = round(water_norm - water_amount / 1000, 1)
+                       ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'water_norm' where it is not associated with a value
+INFO:aiogram.event:Update id=662485529 is handled. Duration 141 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485530 is handled. Duration 233 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485531 is not handled. Duration 311 ms by bot id=7566872559
+ERROR:aiogram.event:Cause exception while process update id=662485531 by bot id=7566872559
+UnboundLocalError: cannot access local variable 'water_norm' where it is not associated with a value
+Traceback (most recent call last):
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\vdl\HealthyLife_tgbot\handlers.py", line 206, in handle_check_progress_button
+    await cmd_check_progress(call.message, id)
+  File "C:\Users\vdl\HealthyLife_tgbot\handlers.py", line 223, in cmd_check_progress
+    water_left = round(water_norm - water_amount / 1000, 1)
+                       ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'water_norm' where it is not associated with a value
+INFO:aiogram.event:Update id=662485532 is not handled. Duration 311 ms by bot id=7566872559
+ERROR:aiogram.event:Cause exception while process update id=662485532 by bot id=7566872559
+UnboundLocalError: cannot access local variable 'water_norm' where it is not associated with a value
+Traceback (most recent call last):
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\vdl\HealthyLife_tgbot\handlers.py", line 206, in handle_check_progress_button
+    await cmd_check_progress(call.message, id)
+  File "C:\Users\vdl\HealthyLife_tgbot\handlers.py", line 223, in cmd_check_progress
+    water_left = round(water_norm - water_amount / 1000, 1)
+                       ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'water_norm' where it is not associated with a value
+INFO:aiogram.event:Update id=662485533 is not handled. Duration 391 ms by bot id=7566872559
+ERROR:aiogram.event:Cause exception while process update id=662485533 by bot id=7566872559
+UnboundLocalError: cannot access local variable 'water_norm' where it is not associated with a value
+Traceback (most recent call last):
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\vdl\HealthyLife_tgbot\handlers.py", line 206, in handle_check_progress_button
+    await cmd_check_progress(call.message, id)
+  File "C:\Users\vdl\HealthyLife_tgbot\handlers.py", line 223, in cmd_check_progress
+    water_left = round(water_norm - water_amount / 1000, 1)
+                       ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'water_norm' where it is not associated with a value
+INFO:aiogram.event:Update id=662485534 is handled. Duration 77 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485535 is handled. Duration 422 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485536 is not handled. Duration 250 ms by bot id=7566872559
+ERROR:aiogram.event:Cause exception while process update id=662485536 by bot id=7566872559
+UnboundLocalError: cannot access local variable 'water_norm' where it is not associated with a value
+Traceback (most recent call last):
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\vdl\HealthyLife_tgbot\handlers.py", line 223, in cmd_check_progress
+    water_left = round(water_norm - water_amount / 1000, 1)
+                       ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'water_norm' where it is not associated with a value
+INFO:aiogram.event:Update id=662485537 is not handled. Duration 235 ms by bot id=7566872559
+ERROR:aiogram.event:Cause exception while process update id=662485537 by bot id=7566872559
+UnboundLocalError: cannot access local variable 'water_norm' where it is not associated with a value
+Traceback (most recent call last):
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\vdl\HealthyLife_tgbot\handlers.py", line 223, in cmd_check_progress
+    water_left = round(water_norm - water_amount / 1000, 1)
+                       ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'water_norm' where it is not associated with a value
+INFO:aiogram.event:Update id=662485538 is not handled. Duration 235 ms by bot id=7566872559
+ERROR:aiogram.event:Cause exception while process update id=662485538 by bot id=7566872559
+UnboundLocalError: cannot access local variable 'water_norm' where it is not associated with a value
+Traceback (most recent call last):
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\vdl\HealthyLife_tgbot\handlers.py", line 223, in cmd_check_progress
+    water_left = round(water_norm - water_amount / 1000, 1)
+                       ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'water_norm' where it is not associated with a value
+INFO:aiogram.event:Update id=662485539 is not handled. Duration 202 ms by bot id=7566872559
+ERROR:aiogram.event:Cause exception while process update id=662485539 by bot id=7566872559
+UnboundLocalError: cannot access local variable 'water_norm' where it is not associated with a value
+Traceback (most recent call last):
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\vdl\HealthyLife_tgbot\handlers.py", line 223, in cmd_check_progress
+    water_left = round(water_norm - water_amount / 1000, 1)
+                       ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'water_norm' where it is not associated with a value
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @healthy_tg_bot id=7566872559 - 'HealthyLife'
+INFO:aiogram.event:Update id=662485540 is not handled. Duration 266 ms by bot id=7566872559
+ERROR:aiogram.event:Cause exception while process update id=662485540 by bot id=7566872559
+UnboundLocalError: cannot access local variable 'water_norm' where it is not associated with a value
+Traceback (most recent call last):
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\vdl\HealthyLife_tgbot\handlers.py", line 223, in cmd_check_progress
+    water_left = round(water_norm - water_amount / 1000, 1)
+                       ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'water_norm' where it is not associated with a value
+INFO:aiogram.event:Update id=662485541 is not handled. Duration 530 ms by bot id=7566872559
+ERROR:aiogram.event:Cause exception while process update id=662485541 by bot id=7566872559
+UnboundLocalError: cannot access local variable 'water_norm' where it is not associated with a value
+Traceback (most recent call last):
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\vdl\HealthyLife_tgbot\handlers.py", line 223, in cmd_check_progress
+    water_left = round(water_norm - water_amount / 1000, 1)
+                       ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'water_norm' where it is not associated with a value
+INFO:aiogram.event:Update id=662485542 is not handled. Duration 235 ms by bot id=7566872559
+ERROR:aiogram.event:Cause exception while process update id=662485542 by bot id=7566872559
+UnboundLocalError: cannot access local variable 'water_norm' where it is not associated with a value
+Traceback (most recent call last):
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\vdl\HealthyLife_tgbot\handlers.py", line 223, in cmd_check_progress
+    water_left = round(water_norm - water_amount / 1000, 1)
+                       ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'water_norm' where it is not associated with a value
+INFO:aiogram.event:Update id=662485543 is handled. Duration 436 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485544 is handled. Duration 92 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485545 is handled. Duration 155 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485546 is handled. Duration 77 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485547 is handled. Duration 77 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485548 is handled. Duration 234 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485549 is handled. Duration 94 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485550 is not handled. Duration 266 ms by bot id=7566872559
+ERROR:aiogram.event:Cause exception while process update id=662485550 by bot id=7566872559
+TypeError: can't multiply sequence by non-int of type 'float'
+Traceback (most recent call last):
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\vdl\HealthyLife_tgbot\handlers.py", line 108, in process_city
+    water_norm = round(float(weight) * 0.03 * max(0, (city_temperature - 20) / 5) * 250 + 500 / 30 * workout_time, 1)
+                                                                                          ~~~~~~~~~^~~~~~~~~~~~~~
+TypeError: can't multiply sequence by non-int of type 'float'
+INFO:aiogram.event:Update id=662485551 is not handled. Duration 155 ms by bot id=7566872559
+ERROR:aiogram.event:Cause exception while process update id=662485551 by bot id=7566872559
+TypeError: can't multiply sequence by non-int of type 'float'
+Traceback (most recent call last):
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\vdl\HealthyLife_tgbot\handlers.py", line 108, in process_city
+    water_norm = round(float(weight) * 0.03 * max(0, (city_temperature - 20) / 5) * 250 + 500 / 30 * workout_time, 1)
+                                                                                          ~~~~~~~~~^~~~~~~~~~~~~~
+TypeError: can't multiply sequence by non-int of type 'float'
+INFO:aiogram.event:Update id=662485552 is not handled. Duration 171 ms by bot id=7566872559
+ERROR:aiogram.event:Cause exception while process update id=662485552 by bot id=7566872559
+TypeError: can't multiply sequence by non-int of type 'float'
+Traceback (most recent call last):
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\vdl\HealthyLife_tgbot\handlers.py", line 108, in process_city
+    water_norm = round(float(weight) * 0.03 * max(0, (city_temperature - 20) / 5) * 250 + 500 / 30 * workout_time, 1)
+                                                                                          ~~~~~~~~~^~~~~~~~~~~~~~
+TypeError: can't multiply sequence by non-int of type 'float'
+INFO:aiogram.event:Update id=662485553 is handled. Duration 172 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485554 is handled. Duration 109 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485555 is not handled. Duration 125 ms by bot id=7566872559
+ERROR:aiogram.event:Cause exception while process update id=662485555 by bot id=7566872559
+TypeError: can't multiply sequence by non-int of type 'float'
+Traceback (most recent call last):
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\vdl\HealthyLife_tgbot\handlers.py", line 108, in process_city
+    water_norm = round(float(weight) * 0.03 * max(0, (city_temperature - 20) / 5) * 250 + 500 / 30 * workout_time, 1)
+                                                                                          ~~~~~~~~~^~~~~~~~~~~~~~
+TypeError: can't multiply sequence by non-int of type 'float'
+INFO:aiogram.event:Update id=662485556 is handled. Duration 250 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485557 is handled. Duration 844 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485558 is handled. Duration 92 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485559 is handled. Duration 109 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485560 is handled. Duration 94 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485561 is not handled. Duration 203 ms by bot id=7566872559
+ERROR:aiogram.event:Cause exception while process update id=662485561 by bot id=7566872559
+UnboundLocalError: cannot access local variable 'water_norm' where it is not associated with a value
+Traceback (most recent call last):
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\vdl\HealthyLife_tgbot\handlers.py", line 206, in handle_check_progress_button
+    await cmd_check_progress(call.message, id)
+  File "C:\Users\vdl\HealthyLife_tgbot\handlers.py", line 223, in cmd_check_progress
+    water_left = round(water_norm - water_amount / 1000, 1)
+                       ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'water_norm' where it is not associated with a value
+INFO:aiogram.event:Update id=662485562 is handled. Duration 171 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485563 is handled. Duration 328 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485564 is handled. Duration 438 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485565 is handled. Duration 125 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485566 is handled. Duration 1016 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485567 is handled. Duration 155 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485568 is handled. Duration 63 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485569 is not handled. Duration 594 ms by bot id=7566872559
+ERROR:aiogram.event:Cause exception while process update id=662485569 by bot id=7566872559
+UnboundLocalError: cannot access local variable 'water_norm' where it is not associated with a value
+Traceback (most recent call last):
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\vdl\HealthyLife_tgbot\handlers.py", line 206, in handle_check_progress_button
+    await cmd_check_progress(call.message, id)
+  File "C:\Users\vdl\HealthyLife_tgbot\handlers.py", line 223, in cmd_check_progress
+    water_left = round(water_norm - water_amount / 1000, 1)
+                       ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'water_norm' where it is not associated with a value
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @healthy_tg_bot id=7566872559 - 'HealthyLife'
+INFO:aiogram.event:Update id=662485570 is not handled. Duration 171 ms by bot id=7566872559
+ERROR:aiogram.event:Cause exception while process update id=662485570 by bot id=7566872559
+UnboundLocalError: cannot access local variable 'workout_cal' where it is not associated with a value
+Traceback (most recent call last):
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\vdl\HealthyLife_tgbot\handlers.py", line 229, in cmd_check_progress
+    food_left = round(food_norm - (food_cal - workout_cal), 0)
+                                              ^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'workout_cal' where it is not associated with a value
+INFO:aiogram.event:Update id=662485571 is not handled. Duration 265 ms by bot id=7566872559
+ERROR:aiogram.event:Cause exception while process update id=662485571 by bot id=7566872559
+UnboundLocalError: cannot access local variable 'workout_cal' where it is not associated with a value
+Traceback (most recent call last):
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\vdl\HealthyLife_tgbot\handlers.py", line 229, in cmd_check_progress
+    food_left = round(food_norm - (food_cal - workout_cal), 0)
+                                              ^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'workout_cal' where it is not associated with a value
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @healthy_tg_bot id=7566872559 - 'HealthyLife'
+INFO:aiogram.event:Update id=662485572 is handled. Duration 530 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485573 is handled. Duration 250 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485574 is handled. Duration 63 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485575 is handled. Duration 155 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485576 is handled. Duration 108 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485577 is handled. Duration 202 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485578 is not handled. Duration 234 ms by bot id=7566872559
+ERROR:aiogram.event:Cause exception while process update id=662485578 by bot id=7566872559
+TypeError: can't multiply sequence by non-int of type 'float'
+Traceback (most recent call last):
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\vdl\HealthyLife_tgbot\handlers.py", line 108, in process_city
+    water_norm = round(float(weight) * 0.03 * max(0, (city_temperature - 20) / 5) * 250 + 500 / 30 * workout_time, 1)
+                                                                                          ~~~~~~~~~^~~~~~~~~~~~~~
+TypeError: can't multiply sequence by non-int of type 'float'
+INFO:aiogram.event:Update id=662485579 is handled. Duration 188 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485580 is handled. Duration 515 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485581 is handled. Duration 1030 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485582 is handled. Duration 94 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485583 is handled. Duration 63 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485584 is handled. Duration 375 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485585 is handled. Duration 547 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485586 is handled. Duration 359 ms by bot id=7566872559
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @healthy_tg_bot id=7566872559 - 'HealthyLife'
+INFO:aiogram.event:Update id=662485587 is handled. Duration 202 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485588 is handled. Duration 358 ms by bot id=7566872559
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @healthy_tg_bot id=7566872559 - 'HealthyLife'
+INFO:aiogram.event:Update id=662485589 is handled. Duration 219 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485590 is handled. Duration 500 ms by bot id=7566872559
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @healthy_tg_bot id=7566872559 - 'HealthyLife'
+INFO:aiogram.event:Update id=662485591 is handled. Duration 296 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485592 is handled. Duration 671 ms by bot id=7566872559
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @healthy_tg_bot id=7566872559 - 'HealthyLife'
+INFO:aiogram.event:Update id=662485593 is handled. Duration 296 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485594 is handled. Duration 438 ms by bot id=7566872559
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @healthy_tg_bot id=7566872559 - 'HealthyLife'
+INFO:aiogram.event:Update id=662485595 is handled. Duration 452 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485596 is handled. Duration 1344 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485597 is handled. Duration 296 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485598 is handled. Duration 1125 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485599 is handled. Duration 155 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485600 is handled. Duration 186 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485601 is handled. Duration 171 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485602 is handled. Duration 1484 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485603 is handled. Duration 125 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485604 is handled. Duration 141 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485605 is handled. Duration 172 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485606 is handled. Duration 108 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485607 is handled. Duration 453 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485608 is handled. Duration 500 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485609 is handled. Duration 78 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485610 is handled. Duration 155 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485611 is handled. Duration 969 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485612 is handled. Duration 77 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485613 is handled. Duration 78 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485614 is handled. Duration 359 ms by bot id=7566872559
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @healthy_tg_bot id=7566872559 - 'HealthyLife'
+INFO:aiogram.event:Update id=662485615 is handled. Duration 188 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485616 is handled. Duration 265 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485617 is handled. Duration 109 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485618 is handled. Duration 94 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485619 is handled. Duration 171 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485620 is handled. Duration 94 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485621 is handled. Duration 94 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485622 is handled. Duration 94 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485623 is handled. Duration 109 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485624 is not handled. Duration 234 ms by bot id=7566872559
+ERROR:aiogram.event:Cause exception while process update id=662485624 by bot id=7566872559
+TypeError: can't multiply sequence by non-int of type 'float'
+Traceback (most recent call last):
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\vdl\HealthyLife_tgbot\handlers.py", line 108, in process_city
+    water_norm = round(float(weight) * 0.03 * max(0, (city_temperature - 20) / 5) * 250 + 500 / 30 * workout_time, 1)
+                                                                                          ~~~~~~~~~^~~~~~~~~~~~~~
+TypeError: can't multiply sequence by non-int of type 'float'
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @healthy_tg_bot id=7566872559 - 'HealthyLife'
+INFO:aiogram.event:Update id=662485625 is handled. Duration 1421 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485626 is handled. Duration 125 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485627 is handled. Duration 77 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485628 is handled. Duration 61 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485629 is handled. Duration 61 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485630 is handled. Duration 280 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485631 is handled. Duration 296 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485632 is handled. Duration 171 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485633 is handled. Duration 1280 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485634 is handled. Duration 94 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485635 is handled. Duration 125 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485636 is handled. Duration 1578 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485637 is handled. Duration 78 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485638 is handled. Duration 171 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485639 is handled. Duration 358 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485640 is handled. Duration 359 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485641 is handled. Duration 188 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485642 is handled. Duration 140 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485643 is handled. Duration 296 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485644 is handled. Duration 469 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485645 is handled. Duration 1405 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485646 is handled. Duration 109 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485647 is handled. Duration 297 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485648 is handled. Duration 921 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485649 is handled. Duration 1234 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485650 is handled. Duration 1250 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485651 is handled. Duration 671 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485652 is handled. Duration 452 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485653 is handled. Duration 1063 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485654 is handled. Duration 141 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485655 is handled. Duration 625 ms by bot id=7566872559
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @healthy_tg_bot id=7566872559 - 'HealthyLife'
+INFO:aiogram.event:Update id=662485656 is not handled. Duration 452 ms by bot id=7566872559
+ERROR:aiogram.event:Cause exception while process update id=662485656 by bot id=7566872559
+ValueError: Expected 2D array, got 1D array instead:
+array=[ 80 170  25].
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+Traceback (most recent call last):
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\vdl\HealthyLife_tgbot\handlers.py", line 209, in handle_check_progress_button
+    await cmd_check_progress(call.message, id)
+  File "C:\Users\vdl\HealthyLife_tgbot\handlers.py", line 228, in cmd_check_progress
+    food_norm = round(calories_calc_model.predict([weight, height, age]), 0)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\sklearn\linear_model\_base.py", line 286, in predict
+    return self._decision_function(X)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\sklearn\linear_model\_base.py", line 269, in _decision_function
+    X = self._validate_data(X, accept_sparse=["csr", "csc", "coo"], reset=False)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\sklearn\base.py", line 633, in _validate_data
+    out = check_array(X, input_name="X", **check_params)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\sklearn\utils\validation.py", line 1035, in check_array
+    raise ValueError(msg)
+ValueError: Expected 2D array, got 1D array instead:
+array=[ 80 170  25].
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @healthy_tg_bot id=7566872559 - 'HealthyLife'
+INFO:aiogram.event:Update id=662485657 is handled. Duration 344 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485658 is not handled. Duration 2343 ms by bot id=7566872559
+ERROR:aiogram.event:Cause exception while process update id=662485658 by bot id=7566872559
+TypeError: type numpy.ndarray doesn't define __round__ method
+Traceback (most recent call last):
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\vdl\HealthyLife_tgbot\handlers.py", line 209, in handle_check_progress_button
+    await cmd_check_progress(call.message, id)
+  File "C:\Users\vdl\HealthyLife_tgbot\handlers.py", line 228, in cmd_check_progress
+    food_norm = round(calories_calc_model.predict([[weight, height, age]]), 0)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: type numpy.ndarray doesn't define __round__ method
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @healthy_tg_bot id=7566872559 - 'HealthyLife'
+INFO:aiogram.event:Update id=662485659 is handled. Duration 186 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485660 is handled. Duration 686 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485661 is handled. Duration 610 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485662 is handled. Duration 311 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485663 is handled. Duration 77 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485664 is handled. Duration 61 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485665 is handled. Duration 796 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485666 is not handled. Duration 188 ms by bot id=7566872559
+ERROR:aiogram.event:Cause exception while process update id=662485666 by bot id=7566872559
+ValueError: dtype='numeric' is not compatible with arrays of bytes/strings.Convert your data to numeric values explicitly instead.
+Traceback (most recent call last):
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\vdl\HealthyLife_tgbot\handlers.py", line 112, in process_city
+    food_norm = round(calories_calc_model.predict([[weight, height, age]])[0] + 5 * float(workout_time), -2)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\sklearn\linear_model\_base.py", line 286, in predict
+    return self._decision_function(X)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\sklearn\linear_model\_base.py", line 269, in _decision_function
+    X = self._validate_data(X, accept_sparse=["csr", "csc", "coo"], reset=False)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\sklearn\base.py", line 633, in _validate_data
+    out = check_array(X, input_name="X", **check_params)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\vdl\AppData\Local\anaconda3\Lib\site-packages\sklearn\utils\validation.py", line 1038, in check_array
+    raise ValueError(
+ValueError: dtype='numeric' is not compatible with arrays of bytes/strings.Convert your data to numeric values explicitly instead.
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @healthy_tg_bot id=7566872559 - 'HealthyLife'
+INFO:aiogram.event:Update id=662485667 is handled. Duration 218 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485668 is handled. Duration 156 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485669 is handled. Duration 77 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485670 is handled. Duration 78 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485671 is handled. Duration 93 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485672 is handled. Duration 250 ms by bot id=7566872559
+INFO:aiogram.event:Update id=662485673 is handled. Duration 328 ms by bot id=7566872559

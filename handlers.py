@@ -1,17 +1,20 @@
 from aiogram import Router, types, F
-from aiogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, ReplyKeyboardMarkup, KeyboardButton
+from aiogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 from aiogram.filters.command import Command
 from aiogram.fsm.context import FSMContext
+import sklearn
+import joblib
 from states import Profile, Food, Water, Workout
-from profile_database import save_profile, get_profile_info
-from log_food_database import log_food, get_food_calories
-from log_water_database import log_water, get_water_amount
-from log_workout_database import log_workout, get_workout_calories
-from gpt_api import get_food_info, get_workout_info
-from openwheather_api import get_temperature
+from databases.profile_database import save_profile, get_profile_info
+from databases.log_food_database import log_food, get_food_calories
+from databases.log_water_database import log_water, get_water_amount
+from databases.log_workout_database import log_workout, get_workout_calories
+from api.gpt_api import get_food_info, get_workout_info
+from api.openwheather_api import get_temperature
 
 router = Router()
 BASE_PROFILE = [80, 170, 40, 'Saint-Petersurg']
+calories_calc_model = joblib.load('LinearRegr\\calories_calc.pkl')
 
 # Обработчик нажатий на кнопки
 @router.message(Command("keyboard"))
@@ -46,7 +49,6 @@ async def handle_help_button(call: types.CallbackQuery):
 
 @router.message(Command("help"))
 async def cmd_help(message: types.Message):
-    print(message.from_user.id)
     await message.reply(
         """Доступные команды:
         /start - Начало работы
@@ -104,10 +106,11 @@ async def process_city(message: Message, state: FSMContext):
     age = data.get('age')
     workout_time = data.get('workout_time')
     city = message.text
-    save_profile(id, message.date.strftime("%Y-%m-%d"), message.from_user.username, weight, height, age, workout_time, city)
-    water_norm = round(float(weight) * 0.03, 1)
-    food_norm = round(10 * float(weight) + 6.25 * float(height) - 5 * float(age) + 5 * float(workout_time), -2)
-    await message.reply(f'Норма воды - {water_norm} л/день\nНорма калорий - {food_norm} ККалл/день')
+    save_profile(message.from_user.id, message.date.strftime("%Y-%m-%d"), message.from_user.username, weight, height, age, workout_time, city)
+    city_temperature = get_temperature(city)
+    water_norm = round(float(weight) * 0.03 + max(0, (city_temperature - 20) / 5) * 0.25 + float(workout_time) / 60 * 0.5, 1)
+    food_norm = round(calories_calc_model.predict([[float(weight), float(height), float(age)]])[0] + 5 * float(workout_time), -2)
+    await message.reply(f'Норма воды - {water_norm} л/день\nНорма калорий - {food_norm} ККалл/день\n/keyboard')
     await state.clear()
 
 
@@ -139,8 +142,8 @@ async def process_amount(message: Message, state: FSMContext):
     kall_per_100 = data.get('kall_per_100')
     amount = message.text
     calories = round((int(kall_per_100) if kall_per_100 != None else 0) * float(float(amount) / 100), 1)
-    log_food(id, message.date.strftime("%Y-%m-%d"), food, amount, calories)
-    await message.reply(f'Записано: {calories} ккал.')
+    log_food(message.from_user.id, message.date.strftime("%Y-%m-%d"), food, amount, calories)
+    await message.reply(f'Записано: {calories} ккал.\n/keyboard')
     await state.clear()
 
 
@@ -158,11 +161,9 @@ async def start_log_water(message: Message, state: FSMContext):
 
 @router.message(Water.water_amount)
 async def process_water(message: Message, state: FSMContext):
-    #formatted_date = forward_date.strftime("%Y-%m-%d")
-    #print(formatted_date)
     water_amount = message.text
-    log_water(id, message.date.strftime("%Y-%m-%d"), water_amount)
-    await message.reply(f'Записано: {water_amount} мл.')
+    log_water(message.from_user.id, message.date.strftime("%Y-%m-%d"), water_amount)
+    await message.reply(f'Записано: {water_amount} мл.\n/keyboard')
     await state.clear()
 
 
@@ -194,8 +195,8 @@ async def process_amount(message: Message, state: FSMContext):
     kall_per_min = data.get('kall_per_min')
     amount = message.text
     calories = round((int(kall_per_min) if kall_per_min != None else 0) * float(amount), 1)
-    log_workout(id, message.date.strftime("%Y-%m-%d"), workout, amount, calories)
-    await message.reply(f'Записано: -{calories} ккал.')
+    log_workout(message.from_user.id, message.date.strftime("%Y-%m-%d"), workout, amount, calories)
+    await message.reply(f'Записано: -{calories} ккал.\n/keyboard')
     await state.clear()
 
 
@@ -217,24 +218,58 @@ async def cmd_check_progress(message: types.Message, id: int = None):
     except:
         weight, height, age, city = BASE_PROFILE
     city_temperature = get_temperature(city)
-    food_cal = get_food_calories(id, date)
     water_amount = get_water_amount(id, date)
     workout_cal = get_workout_calories(id, date)
+    food_cal = get_food_calories(id, date)
 
-    water_norm = round(float(weight) * 0.03, 1)
-    food_norm = round(10 * float(weight) + 6.25 * float(height) - 5 * float(age) + (400 if city_temperature >= 25 else 0), -2)
+    print(round(float(weight) * 0.03 * max(1, 1 + (city_temperature - 20) / 20), 1))
+
+    water_norm = round(float(weight) * 0.03 + max(0, (city_temperature - 20) / 5) * 0.25 + workout_cal / 600 * 0.5, 1)
+    food_norm = round(calories_calc_model.predict([[weight, height, age]])[0], 0)
+
+    water_left = round(water_norm - water_amount / 1000, 1)
+    water_left = str(water_left) + ' л' if water_left >= 1 else str(round(water_left * 1000, 0)) + ' мл'
+    water_amount = str(round(water_amount  / 1000, 1)) + ' л' if water_amount >= 980 else str(round(water_amount, 0)) + ' мл'
+
+    food_left = round(food_norm - (food_cal - workout_cal), 0)
 
     await message.reply(
         f"""Прогресс:
-        Вода:
-        - Выпито: {round(water_amount / 1000, 1)} л из {water_norm} л.
-        - Осталось: {water_norm - water_amount} л.
-
-        Калории:
-        - Потреблено: {food_cal} ккал из {food_norm} ккал.
-        - Сожжено: {workout_cal} ккал.
-        - Осталось: {food_norm - (food_cal - workout_cal)} ккал."""
+Вода:
+- Выпито: {water_amount} из {water_norm} л.
+- Осталось: {water_left}.
+Калории:
+- Потреблено: {food_cal} ккал из {food_norm} ккал.
+(без учета активности)
+- Сожжено: {workout_cal} ккал.
+- Ещё нужно съесть для поддержания веса: {food_left} ккал.\n/keyboard"""
         )
+
+
+
+"""# Команда для генерации и отправки графика
+@router.message_handler(commands=['graph_water'])
+async def cmd_graph_water(message: types.Message):
+    # Генерируем график
+    days = list(water_consumption.keys())
+    amounts = list(water_consumption.values())
+
+    plt.figure(figsize=(10, 5))
+    plt.plot(days, amounts, marker='o')
+    plt.title("Потребление воды (л)")
+    plt.xlabel('Дни')
+    plt.ylabel('Количество воды (л)')
+    plt.xticks(rotation=45)
+    plt.grid()
+
+    # Сохраняем график в буфер
+    buf = io.BytesIO()
+    plt.savefig(buf, format='png')
+    buf.seek(0)
+    
+    # Отправляем график пользователю
+    await message.answer_photo(photo=buf)
+    plt.close()"""
 
 
 
